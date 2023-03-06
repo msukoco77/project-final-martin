@@ -3,7 +3,7 @@
         <div v-if="authorization">
             <v-layout>
                 <v-app-bar
-                    color="info"
+                    class="bg-purple-lighten-3"
                     prominent
                 >
                     <v-toolbar-title>CRM Melawai</v-toolbar-title>
